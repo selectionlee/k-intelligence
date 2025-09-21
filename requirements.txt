@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+altair
+pdfplumber
+pytesseract
+Pillow
+openai
+faiss-cpu
+python-dotenv
+reportlab
+scikit-learn
