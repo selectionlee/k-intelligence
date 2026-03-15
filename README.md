@@ -1,5 +1,5 @@
 # K Intelligence 해커톤 2025 
-> Track2 본선 - SOTA K 기반의 프롬프트 엔지니어링
+> Track2 본선 - SOTA K 기반의 프롬프트 엔지니어링 <br>
 > 바이브 코딩 기반 서비스 개발
 
 ## 대회 설명
